@@ -34,6 +34,6 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 
 ## FInal Product
 
-!["Home Page"]()
+!["Home Page"](https://github.com/JubzCodes/jungle-rails/blob/master/docs/Home_page.png)
 
-!["Cart Page"]()
+!["My Cart Page"](https://github.com/JubzCodes/jungle-rails/blob/master/docs/My_Cart_Page.png)
